@@ -1,5 +1,5 @@
 # Calculator
-Creating A Simple Calculator
+# Creating A Simple Calculator
 while True:
    print("Options:")
    print("Enter 'add' to add two numbers")
